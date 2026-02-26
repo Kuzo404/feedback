@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { ChevronRight, Filter, Calendar, Send, User, MapPin, FileText, Search, X, CheckCircle, Clock, CheckSquare, Edit3, Headset, ChevronDown, Check, Star, Paperclip, Briefcase } from 'lucide-react';
+import { ChevronRight, Filter, User, FileText, X, CheckCircle, Clock, CheckSquare, Edit3, Headset, ChevronDown, Check, Star, Paperclip, Briefcase } from 'lucide-react';
 import Dashboard from '../components/Dashboard';
 
 // --- Shared Styles (Matching SuperAdmin) ---

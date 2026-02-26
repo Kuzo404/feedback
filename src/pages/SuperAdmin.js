@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { PhoneCall, ChevronRight, Filter, Calendar, Send, User, MapPin, FileText, Search, X, CheckCircle, Clock, CheckSquare, Edit3, Headset, ChevronDown, Check, Star, Paperclip, Building, Upload, ArrowLeft, Power } from 'lucide-react';
+import { ChevronRight, Filter, Send, User, MapPin, FileText, X, CheckCircle, Clock, CheckSquare, Edit3, Headset, ChevronDown, Check, Star, Paperclip, Building, Upload } from 'lucide-react';
 import { BRANCHES } from '../data'; 
 import Dashboard from '../components/Dashboard';
 
